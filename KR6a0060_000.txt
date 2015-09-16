@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 瞿曇彌記果經
+#+DATE: 2015-08-30 19:29:57.348664
+#+PROPERTY: JUAN 0
