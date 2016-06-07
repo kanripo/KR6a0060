@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:29:57.146226
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:30
 #+TITLE: 瞿曇彌記果經
 #+PROPERTY: CBETA_ID T01n0060
 #+PROPERTY: ID KR6a0060
